@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EmanuelAlvess
-- 👀 I’m interested in  apresentar um pouco dos meus pequenos projetos
+- 👀 I’m interested in  present some of my small projects
 - 🌱 I’m currently learning  Front - end
 - 📫 How to reach me  emanuelallves2000@gmail.com
 
